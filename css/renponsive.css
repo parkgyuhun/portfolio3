@@ -224,6 +224,7 @@
     .poster {
         flex: none;
         width: 100%;
+        gap: 10px;
     }
 
     .posterpart {
@@ -259,10 +260,6 @@
 @media screen and (max-width : 425px) {
     html {
         font-size: 5px;
-    }
-
-    .poster {
-        gap: 18px;
     }
 
     .pub_page {
@@ -304,10 +301,6 @@
         font-size: 4px;
     }
 
-    .poster {
-        gap: 15px;
-    }
-
     .pub_title>h1 {
     position: relative;
     left: -17%;
@@ -325,10 +318,6 @@
         font-size: 3px;
     }
 
-    .poster {
-        gap: 12px;
-    }
-
     .footer a {
         margin: 8rem 45rem;
     }
@@ -343,11 +332,7 @@
     html {
         font-size: 3px;
     }
-
-    .poster {
-        gap: 10px;
-    }
-
+    
     .footer a {
         margin: 8rem 38rem;
     }
