@@ -259,7 +259,7 @@
 
 @media screen and (max-width : 425px) {
     html {
-        font-size: 5px;
+        font-size: 4px;
     }
 
     .pub_page {
@@ -267,11 +267,11 @@
     }
 
     .pub_title>h1 {
-        transform: translate(-14px, -14px);
+        transform: translate(-18px, -20px);
     }
 
     .footer a {
-        margin: 8rem 35rem;
+        margin: 8rem 47rem;
     }
 
     .popup {
@@ -297,9 +297,6 @@
 }
 
 @media screen and (max-width : 375px) {
-    html {
-        font-size: 4px;
-    }
 
     .pub_title>h1 {
     position: relative;
@@ -332,7 +329,7 @@
     html {
         font-size: 3px;
     }
-    
+
     .footer a {
         margin: 8rem 38rem;
     }
