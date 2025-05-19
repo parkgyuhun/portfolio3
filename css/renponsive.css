@@ -73,7 +73,7 @@
     .lsection_2 {
         width: 100%;
         flex-direction: row;
-        margin-left: 2rem;
+        /* margin-left: 2rem; */
         flex: 1 0 auto;
         justify-content: space-between;
         margin-bottom: 10px;
