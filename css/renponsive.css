@@ -262,6 +262,10 @@
         font-size: 4px;
     }
 
+    html.fp-enabled {
+        width: 95%;
+    }
+
     .pub_page {
         height: 30vh;
     }
